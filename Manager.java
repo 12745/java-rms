@@ -1,5 +1,7 @@
 import java.util.*;
 
+//create a manager class to hold manager attributes
+
 public class Manager {
     private static String shopName;
     private String name, username, password;
